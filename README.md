@@ -1,2 +1,8 @@
-# data_science_projects
-here are my data science homeworks
+#``` Data Science Projects```
+
+Here are my data science homeworks and laboratory works
+
+Links to interesting works:
+- Clustering
+  - KMeans
+  - DBSCAN
